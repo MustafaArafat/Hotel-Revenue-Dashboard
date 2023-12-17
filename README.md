@@ -1,1 +1,2 @@
-# Hotel-Revenue-Dashboard
+# Hotel-Revenue-Dashboar
+This a PowerBI project
